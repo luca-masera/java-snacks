@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e631d06-d46a-4b02-bc86-aadda166426c" name="Changes" comment="snack3 result">
-      <change afterPath="$PROJECT_DIR$/src/org/experis/snack4/PalindromaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/experis/snack4/README.md" afterDir="false" />
+    <list default="true" id="5e631d06-d46a-4b02-bc86-aadda166426c" name="Changes" comment="snack4 result">
+      <change afterPath="$PROJECT_DIR$/src/org/experis/snack5Bonus/Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/experis/snack5Bonus/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayNumber.executor": "Run",
+    "Application.Characters.executor": "Run",
     "Application.EvenNumber.executor": "Run",
     "Application.NameSurname.executor": "Run",
     "Application.PalindromaString.executor": "Run",
@@ -49,13 +50,26 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PalindromaString">
+  <component name="RunManager" selected="Application.Characters">
     <configuration name="ArrayNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.experis.snack3.ArrayNumber" />
       <module name="java-snacks" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.experis.snack3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.experis.snack5Bonus.Characters" />
+      <module name="java-snacks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.experis.snack5Bonus.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Characters" />
         <item itemvalue="Application.PalindromaString" />
         <item itemvalue="Application.ArrayNumber" />
         <item itemvalue="Application.NameSurname" />
@@ -159,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711636859546</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="snack4 result">
+      <option name="closed" value="true" />
+      <created>1711640783433</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711640783433</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +190,7 @@
     <MESSAGE value="snack1 result" />
     <MESSAGE value="snack2 result" />
     <MESSAGE value="snack3 result" />
-    <option name="LAST_COMMIT_MESSAGE" value="snack3 result" />
+    <MESSAGE value="snack4 result" />
+    <option name="LAST_COMMIT_MESSAGE" value="snack4 result" />
   </component>
 </project>
