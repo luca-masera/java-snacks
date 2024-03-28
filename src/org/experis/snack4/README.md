@@ -1,0 +1,1 @@
+Data in input una stringa verificare se è palindroma
